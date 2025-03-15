@@ -1,0 +1,6 @@
+@Mirabel.CallCenter_HostAddress = http://localhost:5174
+
+GET {{Mirabel.CallCenter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
